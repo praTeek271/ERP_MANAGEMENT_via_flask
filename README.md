@@ -18,4 +18,4 @@ This Repo consists of the following files :
 <br>
 
 
--  created by prateek
+- can be used for any file
