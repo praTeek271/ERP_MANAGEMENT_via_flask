@@ -1,4 +1,4 @@
-# ERP_MANAGEMENT_via_flask
+# erp_management_via_flask
 This Repo consists of the following files :
 - .git
 - .gitignore
@@ -20,4 +20,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses threading module
+- automated commit
