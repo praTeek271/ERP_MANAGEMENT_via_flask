@@ -20,4 +20,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses threading module
+- can be used for any repository
